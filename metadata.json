@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Terminal",
+  "description": "A terminal-style replica of Gemini with real-time streaming command-line interactions, model controls, and session management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
